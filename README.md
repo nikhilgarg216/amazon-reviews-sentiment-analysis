@@ -33,7 +33,7 @@ Star ratings alone don't tell the full story — a 4-star review can carry frust
 
 
 ## 📈 Dashboard Preview
-*(Power BI dashboard screenshot goes here)*
+![Dashboard](images/Dashboard.png)
 
 ## 🚀 How to Run
 1. Clone this repo
