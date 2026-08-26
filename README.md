@@ -35,11 +35,12 @@ Star ratings alone don't tell the full story — a 4-star review can carry frust
 ## 📈 Dashboard Preview
 ![Dashboard](images/Dashboard.png)
 
+📥 [Download the Power BI file](Dashboard/amazon_dashboard.pbix)
+
 ## 🚀 How to Run
 1. Clone this repo
 2. Install dependencies: `pip install pandas vaderSentiment matplotlib wordcloud`
 3. Open `Notebook/amazon_sentiment_analysis.ipynb` and run all cells
 4. Open the Power BI file to explore the interactive dashboard
-
 ---
 **Author:** Nikhil Garg | [LinkedIn](https://linkedin.com/in/nikhil3596) | [GitHub](https://github.com/nikhilgarg216)
